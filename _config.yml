@@ -3,7 +3,7 @@ title: My Portfolio
 subtitle: Lindsey Smith
 email: lindseysmith1580@gmail.com
 description: I'm a detail-oriented and efficient software developer with a focus on building practical, user-centered applications. I’m experienced in JavaScript, React, Java, Spring Boot, and SQL. I value authenticity, hard work, and clear communication, and I’m passionate about continuous learning and solving meaningful problems through technology. I’m currently seeking opportunities where I can grow as a developer, contribute to impactful projects, and collaborate with teams that prioritize innovation and user experience.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
